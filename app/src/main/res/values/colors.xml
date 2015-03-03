@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="upvote_green">#ff85bf25</color>
+  <color name="downvote_red">#ffee4444</color>
+</resources>

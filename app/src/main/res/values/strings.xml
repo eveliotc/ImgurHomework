@@ -1,0 +1,22 @@
+<resources>
+  <string name="app_name">ImgurTinder</string>
+
+  <string-array name="upvote_msgs">
+    <item>Have an upvote!</item>
+    <item>This post, I like it</item>
+    <item>+1</item>
+    <item>Shut up and take my money!</item>
+    <item>Imgur approved</item>
+    <item>Itsa a nicea!</item>
+    <item>Me gusta</item>
+  </string-array>
+  <string-array name="downvote_msgs">
+    <item>Have an upvote! NOT!</item>
+    <item>Ugh</item>
+    <item>Op is a bundle of sticks</item>
+    <item>Fuck you Dan!</item>
+    <item>Here is to oblivion!</item>
+    <item>Repost!</item>
+    <item>NOPE NOPE NOPE</item>
+  </string-array>
+</resources>
